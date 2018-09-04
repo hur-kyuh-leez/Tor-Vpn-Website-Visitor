@@ -17,6 +17,10 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ```python
 firefox_driver = '/usr/bin/geckodriver' # change this to your geckodriver directory
 chrome_driver = '/usr/bin/chromedriver' # change this to your chromedriver directory
+links = [
+        'URL_1',
+        'URL_2',
+                     ]
  # Example visit 20 times
 maincode(20)
 ```

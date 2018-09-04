@@ -12,7 +12,7 @@ IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ### How to Use...
-- makes proper changes and execute
+- make proper changes and execute
 
 ```python
 firefox_driver = '/usr/bin/geckodriver' # change this to your geckodriver directory

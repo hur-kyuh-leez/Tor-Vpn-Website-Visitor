@@ -21,7 +21,7 @@ links = [
         'URL_1',
         'URL_2',
                      ]
- # Example visit 20 times
+# Example visit 20 times
 maincode(20)
 ```
 

@@ -130,7 +130,7 @@ if __name__ == "__main__":
                 print(exc_type, fname, exc_tb.tb_lineno)
 
 
-    maincode(999999, "https://blog.naver.com/PostList.nhn?blogId=ki2tae&categoryNo=26&skinType=&skinId=&from=menu&userSelectMenu=true")
+    maincode(999999, YOUR_URL)
 
 
 
